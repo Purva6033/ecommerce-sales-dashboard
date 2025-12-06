@@ -48,6 +48,10 @@ New sales records are generated every minute, and the dashboard updates automati
 - Payment method breakdown  
 - Sales over time
 
+~ Live Dashboard
+
+👉 https://lookerstudio.google.com/reporting/ae9f4ce7-b209-4c4f-a402-eecced7d6de7
+
 
 ~ Real-Time Logic
 
